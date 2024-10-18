@@ -1,2 +1,2 @@
 # PandaNumpy
-My learning journey for Panda and Numpy libraries 
+My learning journey for Pandas and Numpy libraries 
